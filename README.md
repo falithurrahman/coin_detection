@@ -3,7 +3,8 @@ In this project, i made a simple program to detect the sum of coin available ins
 This project needed constant environment to mantain the detection accuracy of the program i made. So, back then i made a box equipped with LED to make the light and distance from camera to the coin constant. The pictures regarding this project can be seen at the picture folder of this repository.
 
 The following picture is a simple flowchart of the program 
-![alt text](https://github.com/falithurrahman/deteksi_koin/blob/master/Picture/Drawing1.jpg "Flowchart")
+
+[flowchart](https://github.com/falithurrahman/deteksi_koin/blob/master/Picture/Drawing1.jpg "Flowchart")
 
 ````C++
 				if (luas > 14500 && luas <= 16000)
